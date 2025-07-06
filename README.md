@@ -15,6 +15,19 @@ Repositori ini berisi rangkaian materi dan homework selama mengikuti Bootcamp di
 
 ```
 /Rakamin-Statistic
+│
+├── .gitignore
+├── HandsOn_1
+│   └── Statistic.ipynb 
+├── HandsOn_2
+│   └── Statistic II.ipynb 
+├── HandsOn_3
+│   └── Statistic III.ipynb 
+├── Dataset_Homework_1-4
+│   └── Statistic III.ipynb 
+├── HandsOn_Homework_5
+│   └── Statistic III.ipynb 
+└── README.md
 
 ```
 ## ⚠️ Disclaimer
