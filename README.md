@@ -8,7 +8,7 @@ Repositori ini berisi rangkaian materi dan homework selama mengikuti Bootcamp di
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Ringkasan Minggu ini (Week 7)
+## Ringkasan Minggu ini (Week 8)
 - Mengukur kausalitas dengan statistical experiment (A/B testing)
 - Ukuran pemusatan dan penyebaran
 - Menentukan IQR untuk mengetahui outlier treshold
